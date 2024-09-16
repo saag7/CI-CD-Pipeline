@@ -1,4 +1,3 @@
-<img src="https://img.shields.io/github/forks/tush-tr/DevOps-Projects"> <img src="https://img.shields.io/github/license/tush-tr/DevOps-Projects"> <img src="https://img.shields.io/github/stars/tush-tr/DevOps-Projects"> <a href="https://twitter.com/tush_tr604" target="blank"><img src="https://img.shields.io/twitter/follow/tush_tr604?logo=twitter&style=flat" alt="tush_tr604" /></a>
 
 # Deploy an Application to GKE(Google Kubernetes Engine) 
 ### Tech used:
@@ -8,10 +7,6 @@
 - GKE(Google Kubernetes Engine)
 - GCR(Google Container Registry)
 
-<p>
-<img src="https://raw.githubusercontent.com/tush-tr/tush-tr/master/res/docker.gif" height="36" width="36" >
-<img src="https://raw.githubusercontent.com/tush-tr/tush-tr/master/res/kubernetes.svg.png"  height="36" width="36" ><img src="https://raw.githubusercontent.com/tush-tr/tush-tr/master/res/social-icon-google-cloud-1200-630.png" height="36" >
-</p>
 
 # Steps
 - [x] Create a kubernetes cluster on GKE.
@@ -114,3 +109,4 @@ kubectl delete -f service.yml
 ```
 
 > Delete your GKE Cluster from GCP Console.
+# CICD-Pipeline
